@@ -1,0 +1,145 @@
+#EXTM3U url-tvg="http://nonton.site:8888/xmltv.php?username=epg&password=epg" x-tvg-url="http://nonton.site:8888/xmltv.php?username=epg&password=epg"
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20170705042443%21RCTI_MNC-Group.png" group-title="SERVER ID : BACKUP", SERVER ID : RCTI
+
+http://iptv.burhansyam.com/rcti.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://macan.live/img/mnctv.png" group-title="SERVER ID : BACKUP", SERVER ID : MNC
+
+http://iptv.burhansyam.com/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.id" tvg-logo="https://macan.live/img/gtv.png" group-title="SERVER ID : BACKUP", SERVER ID : GTV
+
+http://iptv.burhansyam.com/global.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://macan.live/img/antv.png" group-title="SERVER ID : BACKUP", SERVER ID : ANTV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62297
+
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://macan.live/img/indosiar.png" group-title="SERVER ID : BACKUP", SERVER ID : INDOSIAR
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62236
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://macan.live/img/sctv.png" group-title="SERVER ID : BACKUP", SERVER ID : SCTV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62193
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://macan.live/img/net.png" group-title="SERVER ID : BACKUP", SERVER ID : NET TV
+
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w85625087_b1344100_sleng_155444.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://macan.live/img/trans7.png" group-title="SERVER ID : BACKUP", SERVER ID : TRANS 7
+
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://macan.live/img/transtv.png" group-title="SERVER ID : BACKUP", SERVER ID : TRANS TV
+
+https://cdnbpp1.useetv.com/joss/15/transtv/chunklist_w1076515494_b1344100_sleng_560849.m3u8
+
+#EXTINF:-1 tvg-id="TVONE.id" tvg-logo="https://macan.live/img/tvone.png" group-title="SERVER ID : BACKUP", SERVER ID : TV ONE
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62181
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://macan.live/img/metrotv.png" group-title="SERVER ID : BACKUP", SERVER ID : METRO TV
+
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://macan.live/img/kompastv.png" group-title="SERVER ID : BACKUP", SERVER ID : KOMPAS TV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62229
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id"  tvg-logo="https://macan.live/img/cnn.png" group-title="SERVER ID : BACKUP", SERVER ID : CNN Indonesia
+
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w825764297_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.id"  tvg-logo="https://macan.live/img/cnbc.png" group-title="SERVER ID : BACKUP", SERVER ID : CNBC Indonesia
+
+https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="DaaiTv.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="SERVER ID : BACKUP", SERVER ID : DAAI TV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62269
+
+#EXTINF:-1 tvg-id="JakTV.id"  tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="SERVER ID : BACKUP", SERVER ID : JAKTV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62233
+
+#EXTINF:-1 tvg-id="BeritaSatu.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="SERVER ID : BACKUP", SERVER ID : BeritaSatu
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62284
+
+#EXTINF:-1 tvg-id="RajawaliTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="SERVER ID : BACKUP", SERVER ID : RTV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62197
+
+#EXTINF:-1 tvg-id="TVRI.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SERVER ID : BACKUP", SERVER ID : TVRI Nasional
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62177
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/tvri.png" group-title="SERVER ID : BACKUP", SERVER ID : TVRI Sport HD
+
+https://delivery.id.live/stream/tvrisport_hd/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="IDX.id"  tvg-logo="https://macan.live/img/idx.png" group-title="SERVER ID : BACKUP", SERVER ID : IDX
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62237
+
+#EXTINF:-1 tvg-id="JTV.id"  tvg-logo="https://macan.live/img/jtv.png" group-title="SERVER ID : BACKUP", SERVER ID : JTV
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62232
+
+#EXTINF:-1 tvg-id="TLC.id"  tvg-logo="https://macan.live/img/tlc.png" group-title="SERVER ID : BACKUP", SERVER ID : TLC
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62188
+
+#EXTINF:-1 tvg-id="BBCEarth.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="SERVER ID : BACKUP", SERVER ID : BBC Earth
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62289
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://ewsat.com/img/BBC_LIFESTYLE.png" group-title="SERVER ID : BACKUP", SERVER ID : BBC Lifestyle
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/18609
+
+#EXTINF:-1 tvg-id="AnimalPlanet.id""  tvg-logo="https://macan.live/img/animalplanet.png" group-title="SERVER ID : BACKUP", SERVER ID : Animal Planet
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62299
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us"  tvg-logo="https://macan.live/img/discoverychannel.png" group-title="SERVER ID : BACKUP", SERVER ID : Discovery Channel
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62268
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/discoveryasia.png" group-title="SERVER ID : BACKUP", SERVER ID : Discovery Asia
+
+https://delivery.id.live/stream/id_discoveryasia/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="NatGeo.id"  tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="SERVER ID : BACKUP", SERVER ID : National Geographic
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62210
+
+#EXTINF:-1 tvg-id="NatGeoPeople.id"  tvg-logo="https://p7.hiclipart.com/preview/42/706/527/logo-national-geographic-nat-geo-people-discovery-channel-brand-design.jpg" group-title="SERVER ID : BACKUP", SERVER ID : Nat Geo People
+
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_b1344100_sleng_.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="SERVER ID : BACKUP", SERVER ID : Nat Geo Wild
+
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoPeople.id"  tvg-logo="https://mediacdn.acast.com/assets/afceb62a-3487-4c96-b760-72421fdf7891/-jrosbpfb-insidecrimeinvestigation.png" group-title="SERVER ID : BACKUP", SERVER ID : Crime Investigation
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62270
+
+#EXTINF:-1 tvg-id="Lifetime.id"  tvg-logo="https://banner2.cleanpng.com/20180514/llq/kisspng-lifetime-logo-television-channel-5af961d0025737.1186371515262929440096.jpg" group-title="SERVER ID : BACKUP", SERVER ID : Lifetime
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62175
+
+#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://macan.live/img/animax.png" group-title="SERVER ID : BACKUP", SERVER ID : ANIMAX
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62298
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-logo="https://macan.live/img/aniplus.png" group-title="SERVER ID : BACKUP", SERVER ID : ANIPLUS
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62158
+
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="SERVER ID : BACKUP", SERVER ID : Disney Channel
+
+http://iptvking.123tv.to:8080/AVI8wb6TFC
